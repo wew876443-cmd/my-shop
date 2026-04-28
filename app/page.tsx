@@ -3,7 +3,7 @@ export default function Home() {
     <main className="min-h-screen bg-white text-gray-800">
       {/* Header / Navigation */}
       <nav className="p-6 border-b flex justify-between items-center bg-blue-600 text-white">
-        <h1 className="text-2xl font-bold">🛒 MY SHOP THAILAND</h1>
+        <h1 className="text-2xl font-bold">🛒 Realshop</h1>
         <div className="space-x-4">
           <button className="hover:underline">หน้าแรก</button>
           <button className="hover:underline">สินค้าทั้งหมด</button>
